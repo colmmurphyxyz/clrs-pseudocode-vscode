@@ -1,7 +1,17 @@
 {
-  "name": "myextension",
-  "displayName": "myextension",
-  "description": "",
+  "name": "clrs-pseudocode-vscode",
+  "author": {
+    "name": "Colm Murphy",
+    "email": "colmmurphy016@gmail.com",
+    "url": "https://colmmurphy.xyz"
+  },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/colmmurphyxyz/clrs-pseudocode-vscode"
+	},
+  "license": "GPL-3.0-only",
+  "displayName": "clrs-pseudocode-vscode",
+  "description": "Syntax highlighting for CLRS Pseudocode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
