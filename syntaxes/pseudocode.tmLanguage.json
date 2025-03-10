@@ -56,13 +56,13 @@
 		},
 		"numbers": {
 			"patterns": [{
-				"name": "constant.numeric.dec.pseudocode",
+				"name": "constant.numeric",
 				"match": "-?[0123456789]+"
 			}]
 		},
 		"operators": {
 			"patterns": [{
-				"name": "keyword.operator",
+				"name": "entity.name.type",
 				"match": "\\s(\\+|-|\\*|\\\\|mod|<|<=|==|=|>|>=|>>|<<|and|or|not|xor)\\s"
 			}]
 		},
