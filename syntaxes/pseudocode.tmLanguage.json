@@ -37,7 +37,7 @@
 		"builtin_ds": {
 			"patterns": [{
 				"name": "keyword.control.less",
-				"match": "\\b(arrays?|stacks?|queues?|linkedlist?s|listnode?|tables?|heaps?|minheap?S|maxheaps?|priorityqueues?|sets?|trees?|binarytrees?|graphs?)"
+				"match": "\\b(arrays?|stacks?|queues?|linkedlist?s|listnode?|tables?|heaps?|minheaps?|maxheaps?|priorityqueues?|sets?|trees?|binarytrees?|graphs?)"
 			}]
 		},
 		"keywords": {
